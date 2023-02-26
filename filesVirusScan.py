@@ -1,7 +1,7 @@
 import requests
 from webbrowser import open 
 
-print('Note that U must sign up to get api(key) for free or Contact With me Via InstaGram (ah_trojan) to get my own.')
+print('Note that U must sign up to get api(key) for free or Contact With me Via InstaGram to get my own.')
 
 gotows = input('Press[1] to gonna SignUp or Press[Enter] to pass : ')
 if gotows == 1:
